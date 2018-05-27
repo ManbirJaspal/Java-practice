@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c76e01-274a-48cc-9361-d53ad912daab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Constructors/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/Constructors.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/out/production/Constructors/com/Manbir/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/out/production/Constructors/com/Manbir/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/src/com/Manbir/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Constructors/src/com/Manbir/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,18 +41,28 @@
             <path>
               <item name="Java-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Constructors" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Manbir" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -70,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -197,6 +199,12 @@
     <entry file="file://$PROJECT_DIR$/.idea/src/com/Manbir/Main.java" />
     <entry file="file://$PROJECT_DIR$/Constructors/src/com/Manbir/Main.java" />
     <entry file="file://$PROJECT_DIR$/Constructors/src/com/Manbir/BankAccount.java" />
+    <entry file="file://$PROJECT_DIR$/Coding/src/com/Manbir/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding/src/com/Manbir/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
