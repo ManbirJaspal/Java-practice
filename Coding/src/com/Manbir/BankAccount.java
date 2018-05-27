@@ -1,7 +1,6 @@
 package com.Manbir;
 
 public class BankAccount {
-
     private String number;
     private double balance;
     private String customerName;
@@ -12,7 +11,7 @@ public class BankAccount {
         System.out.println("Empty constructor called");
     }
 
-    public BankAccount(String number, double balance, String customerName, String customerEmailAddress, String customerPhoneNumber) { 
+    public BankAccount(String number, double balance, String customerName, String customerEmailAddress, String customerPhoneNumber) {
         System.out.println("Account constructor with parameters called");
         this.number = number;
         this.balance = balance;
@@ -75,3 +74,4 @@ public class BankAccount {
         this.customerPhoneNumber = customerPhoneNumber;
     }
 }
+
