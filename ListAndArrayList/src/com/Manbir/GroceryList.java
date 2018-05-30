@@ -16,6 +16,9 @@ public class GroceryList {
             System.out.println((i+1) + ". " + groceryList.get(i));  //arraylistname.get(index number) retrieves the element at that index.
         }
     }
+    public void modifygroceryItem(String newItem) {
+        
+    }
 
     public void modifyGroceryItem(int position, String newitem) {
         groceryList.set(position, newitem); // the .set() modifies the List at given position with the new value

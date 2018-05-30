@@ -60,6 +60,8 @@ public class Main {
         groceryList.addGroceryItem(scanner.nextLine());
     }
 
+
+
     public static void modifyItem() {
         System.out.println("Enter item number: ");
         int itemNo = scanner.nextInt();
