@@ -12,7 +12,6 @@ public class LinkedHashSetExample {
         lhs.add(7);
         lhs.add(3);
         lhs.add(9);
-        lhs.add(2);
 
         for (Integer values: lhs) {
             System.out.println(values);
