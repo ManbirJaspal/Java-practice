@@ -64,7 +64,7 @@ public class Player implements ISaveable {
         values.add(0, this.name);
         values.add(1, "" + this.hitPoints);
         values.add(2, "" + this.strength);
-        values.add(3,this.weapon); 
+        values.add(3,this.weapon);
         return null;
     }
 
