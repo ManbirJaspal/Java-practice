@@ -49,7 +49,7 @@ public class ArrayListLooping {
         while(enumer.hasMoreElements()) {
             System.out.println(enumer.nextElement());
         }
-        
+
 
     }
 }
