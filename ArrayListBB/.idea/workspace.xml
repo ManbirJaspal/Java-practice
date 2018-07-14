@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/Manbir/ArrayListLooping.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="372">
-              <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#180#189#0" expanded="true" />
@@ -61,17 +61,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComparingTwoListsUsingContains.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ComparingTwoListsUsingContains.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Manbir/ComparingTwoListsUsingContains.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#205#213#0" expanded="true" />
                 <element signature="e#410#418#0" expanded="true" />
                 <element signature="e#578#586#0" expanded="true" />
                 <element signature="e#780#789#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheToStringMethod.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/TheToStringMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#180#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+              <folding>
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,6 +118,8 @@
         <option value="$PROJECT_DIR$/src/com/Manbir/ArrayListInit.java" />
         <option value="$PROJECT_DIR$/src/com/Manbir/ArrayListLooping.java" />
         <option value="$PROJECT_DIR$/src/com/Manbir/ComparingTwoListsUsingContains.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/TheToStringMethod.java" />
       </list>
     </option>
   </component>
@@ -144,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComparingTwoListsUsingContains">
+  <component name="RunManager" selected="Application.TheToStringMethod">
     <configuration name="ArrayListInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Manbir.ArrayListInit" />
       <module name="ArrayListBB" />
@@ -185,12 +212,15 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.Manbir.Main" />
+    <configuration name="TheToStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.TheToStringMethod" />
       <module name="ArrayListBB" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Manbir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -208,14 +238,15 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArrayListPrac" />
       <item itemvalue="Application.ArrayListInit" />
       <item itemvalue="Application.ArrayListLooping" />
       <item itemvalue="Application.ComparingTwoListsUsingContains" />
+      <item itemvalue="Application.TheToStringMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheToStringMethod" />
         <item itemvalue="Application.ComparingTwoListsUsingContains" />
         <item itemvalue="Application.ArrayListLooping" />
         <item itemvalue="Application.ArrayListInit" />
@@ -248,12 +279,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -305,7 +336,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/Manbir/ArrayListLooping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
-          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#180#189#0" expanded="true" />
@@ -315,14 +346,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Manbir/ComparingTwoListsUsingContains.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#205#213#0" expanded="true" />
             <element signature="e#410#418#0" expanded="true" />
             <element signature="e#578#586#0" expanded="true" />
             <element signature="e#780#789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/TheToStringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#180#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
