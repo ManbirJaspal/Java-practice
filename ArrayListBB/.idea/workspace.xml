@@ -34,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListInit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListInit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Manbir/ArrayListInit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -43,6 +43,19 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#437#445#0" expanded="true" />
                 <element signature="e#645#653#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListLooping.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/ArrayListLooping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#180#189#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/Manbir/ArrayListPrac.java" />
         <option value="$PROJECT_DIR$/src/com/Manbir/ArrayListInit.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/ArrayListLooping.java" />
       </list>
     </option>
   </component>
@@ -113,9 +127,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListInit">
+  <component name="RunManager" selected="Application.ArrayListLooping">
     <configuration name="ArrayListInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Manbir.ArrayListInit" />
+      <module name="ArrayListBB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Manbir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ArrayListLooping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.ArrayListLooping" />
       <module name="ArrayListBB" />
       <extension name="coverage">
         <pattern>
@@ -160,9 +184,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArrayListPrac" />
       <item itemvalue="Application.ArrayListInit" />
+      <item itemvalue="Application.ArrayListLooping" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListLooping" />
         <item itemvalue="Application.ArrayListInit" />
         <item itemvalue="Application.ArrayListPrac" />
       </list>
@@ -243,6 +269,17 @@
             <element signature="imports" expanded="true" />
             <element signature="e#437#445#0" expanded="true" />
             <element signature="e#645#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/ArrayListLooping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
