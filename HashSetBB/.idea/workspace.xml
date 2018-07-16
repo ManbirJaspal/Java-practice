@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf3e658-f23c-4ee8-99c2-8a0645828ea1" name="Default" comment="" />
+    <list default="true" id="d6b8cc10-98bb-4dba-88c1-e2bce7a4fa58" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,36 +15,20 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Manbir/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="38" column="88" selection-start-line="38" selection-start-column="88" selection-end-line="38" selection-end-column="88" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashSetExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/HashSetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="41" selection-start-line="17" selection-start-column="42" selection-end-line="18" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#165#182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HMapSorting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Manbir/HMapSorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-              <folding>
-                <element signature="e#175#192#0" expanded="true" />
-                <element signature="e#757#774#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckKeyExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Manbir/CheckKeyExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#175#192#0" expanded="true" />
+                <element signature="e#166#175#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,9 +46,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Manbir/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/Manbir/HMapSorting.java" />
-        <option value="$PROJECT_DIR$/src/com/Manbir/CheckKeyExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/HashSetExample.java" />
       </list>
     </option>
   </component>
@@ -77,23 +59,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HashmapsBB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashmapsBB" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSetBB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashSetBB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HashmapsBB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashmapsBB" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSetBB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashSetBB" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HashmapsBB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashmapsBB" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSetBB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashSetBB" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Manbir" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -101,7 +83,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -116,20 +98,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckKeyExample">
-    <configuration name="CheckKeyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Manbir.CheckKeyExample" />
-      <module name="HashmapsBB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Manbir.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HMapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Manbir.HMapSorting" />
-      <module name="HashmapsBB" />
+  <component name="RunManager" selected="Application.HashSetExample">
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.HashSetExample" />
+      <module name="HashSetBB" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Manbir.*" />
@@ -139,7 +111,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Manbir.Main" />
-      <module name="HashmapsBB" />
+      <module name="HashSetBB" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -161,14 +133,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.HMapSorting" />
-      <item itemvalue="Application.CheckKeyExample" />
+      <item itemvalue="Application.HashSetExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckKeyExample" />
-        <item itemvalue="Application.HMapSorting" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HashSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -177,11 +146,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="adf3e658-f23c-4ee8-99c2-8a0645828ea1" name="Default" comment="" />
-      <created>1531755438964</created>
+      <changelist id="d6b8cc10-98bb-4dba-88c1-e2bce7a4fa58" name="Default" comment="" />
+      <created>1531760072574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531755438964</updated>
+      <updated>1531760072574</updated>
     </task>
     <servers />
   </component>
@@ -197,7 +166,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -223,32 +192,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/Manbir/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="38" column="88" selection-start-line="38" selection-start-column="88" selection-end-line="38" selection-end-column="88" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/HashSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" selection-start-line="17" selection-start-column="42" selection-end-line="18" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#165#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Manbir/HMapSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#175#192#0" expanded="true" />
-            <element signature="e#757#774#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Manbir/CheckKeyExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#175#192#0" expanded="true" />
+            <element signature="e#166#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
