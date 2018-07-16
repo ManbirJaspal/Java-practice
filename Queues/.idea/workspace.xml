@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b8cc10-98bb-4dba-88c1-e2bce7a4fa58" name="Default" comment="" />
+    <list default="true" id="4de23593-6734-49c1-a6dc-a2909b01e3b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,14 +21,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashSetExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Manbir/HashSetExample.java">
+      <file leaf-file-name="QueueExample1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/QueueExample1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#166#175#0" expanded="true" />
+                <element signature="e#189#197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparableDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/ComparableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#367#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Author.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/Author.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortAuthorsByName.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/SortAuthorsByName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <element signature="e#172#180#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,7 +80,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Manbir/HashSetExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/QueueExample1.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/ComparableDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/Author.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/SortAuthorsByName.java" />
       </list>
     </option>
   </component>
@@ -60,22 +97,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HashSetBB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashSetBB" type="462c0819:PsiDirectoryNode" />
+              <item name="Queues" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Queues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HashSetBB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashSetBB" type="462c0819:PsiDirectoryNode" />
+              <item name="Queues" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Queues" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HashSetBB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashSetBB" type="462c0819:PsiDirectoryNode" />
+              <item name="Queues" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Queues" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Manbir" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -83,7 +120,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -98,10 +135,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashSetExample">
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Manbir.HashSetExample" />
-      <module name="HashSetBB" />
+  <component name="RunManager" selected="Application.ComparableDemo">
+    <configuration name="ComparableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.ComparableDemo" />
+      <module name="Queues" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Manbir.*" />
@@ -111,10 +148,20 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Manbir.Main" />
-      <module name="HashSetBB" />
+      <module name="Queues" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="QueueExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.QueueExample1" />
+      <module name="Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Manbir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -133,11 +180,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.HashSetExample" />
+      <item itemvalue="Application.QueueExample1" />
+      <item itemvalue="Application.ComparableDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.ComparableDemo" />
+        <item itemvalue="Application.QueueExample1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,11 +196,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d6b8cc10-98bb-4dba-88c1-e2bce7a4fa58" name="Default" comment="" />
-      <created>1531760072574</created>
+      <changelist id="4de23593-6734-49c1-a6dc-a2909b01e3b0" name="Default" comment="" />
+      <created>1531767404601</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531760072574</updated>
+      <updated>1531767404601</updated>
     </task>
     <servers />
   </component>
@@ -166,12 +216,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -197,13 +247,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Manbir/HashSetExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/QueueExample1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#166#175#0" expanded="true" />
+            <element signature="e#189#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/ComparableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/SortAuthorsByName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#172#180#0" expanded="true" />
           </folding>
         </state>
       </provider>
