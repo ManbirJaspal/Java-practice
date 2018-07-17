@@ -21,11 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueueExample1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="QueueExample1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Manbir/QueueExample1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="357">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#189#197#0" expanded="true" />
@@ -56,13 +56,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortAuthorsByName.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortAuthorsByName.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Manbir/SortAuthorsByName.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#172#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityQueueExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/PriorityQueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#191#199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StacksExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/StacksExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+              <folding>
+                <element signature="e#1070#1079#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyComparator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Manbir/MyComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,6 +121,9 @@
         <option value="$PROJECT_DIR$/src/com/Manbir/ComparableDemo.java" />
         <option value="$PROJECT_DIR$/src/com/Manbir/Author.java" />
         <option value="$PROJECT_DIR$/src/com/Manbir/SortAuthorsByName.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/MyComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/PriorityQueueExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Manbir/StacksExample.java" />
       </list>
     </option>
   </component>
@@ -135,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComparableDemo">
+  <component name="RunManager" selected="Application.StacksExample">
     <configuration name="ComparableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Manbir.ComparableDemo" />
       <module name="Queues" />
@@ -153,8 +193,28 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.PriorityQueueExample" />
+      <module name="Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Manbir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="QueueExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Manbir.QueueExample1" />
+      <module name="Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Manbir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StacksExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manbir.StacksExample" />
       <module name="Queues" />
       <extension name="coverage">
         <pattern>
@@ -182,9 +242,13 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.QueueExample1" />
       <item itemvalue="Application.ComparableDemo" />
+      <item itemvalue="Application.PriorityQueueExample" />
+      <item itemvalue="Application.StacksExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StacksExample" />
+        <item itemvalue="Application.PriorityQueueExample" />
         <item itemvalue="Application.ComparableDemo" />
         <item itemvalue="Application.QueueExample1" />
         <item itemvalue="Application.Main" />
@@ -247,17 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Manbir/QueueExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#189#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Manbir/ComparableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -279,9 +332,51 @@
     <entry file="file://$PROJECT_DIR$/src/com/Manbir/SortAuthorsByName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#172#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/MyComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/PriorityQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#191#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/StacksExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <element signature="e#1070#1079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Manbir/QueueExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
